@@ -1,1 +1,1 @@
-git is version system
+git is a distribute version system
